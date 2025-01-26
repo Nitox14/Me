@@ -1,5 +1,6 @@
 # Me
 WhoAmI?
+
 About Me: Cybersecurity Analyst | SOC Operations | Incident Response | SIEM Specialist
 As a passionate and detail-oriented Cybersecurity Analyst, I thrive in safeguarding organizations against evolving digital threats. With a strong foundation built through a Post Graduate Diploma in Cybersecurity and hands-on experience as a SOC Analyst, I am adept at monitoring, analyzing, and mitigating security incidents in critical environments.
 
